@@ -1,0 +1,15 @@
+<Window x:Class="HangszerekApp.EditUgyfelWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ügyfél módosítása" Height="300" Width="400">
+    <StackPanel Margin="20">
+        <TextBox x:Name="NevInput" Text="Név" Foreground="Gray" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+        <TextBox x:Name="EmailInput" Text="Email" Foreground="Gray" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+        <TextBox x:Name="TelefonszamInput" Text="Telefonszám" Foreground="Gray" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+        <TextBox x:Name="CimInput" Text="Cím" Foreground="Gray" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+        <Button Content="Mentés" Click="SaveButton_Click" Margin="0,10,0,0" />
+    </StackPanel>
+</Window>
+
+
+

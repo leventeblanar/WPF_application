@@ -1,0 +1,38 @@
+<Window x:Class="HangszerekApp.AddRendelesTetelWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Új rendelési tétel hozzáadása" Height="400" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Rendelés -->
+        <Label Grid.Row="0" Grid.Column="0" Content="Rendelés:" VerticalAlignment="Center"/>
+        <ComboBox Grid.Row="0" Grid.Column="1" x:Name="RendelesDropdown" />
+
+        <!-- Hangszer -->
+        <Label Grid.Row="1" Grid.Column="0" Content="Hangszer:" VerticalAlignment="Center"/>
+        <ComboBox Grid.Row="1" Grid.Column="1" x:Name="HangszerDropdown" />
+
+        <!-- Mennyiség -->
+        <Label Grid.Row="2" Grid.Column="0" Content="Mennyiség:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="2" Grid.Column="1" x:Name="MennyisegInput" />
+
+        <!-- Egységár -->
+        <Label Grid.Row="3" Grid.Column="0" Content="Egységár:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="3" Grid.Column="1" x:Name="EgysegarInput" />
+
+        <!-- Gomb -->
+        <Button Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Content="Hozzáadás" Click="AddButton_Click" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

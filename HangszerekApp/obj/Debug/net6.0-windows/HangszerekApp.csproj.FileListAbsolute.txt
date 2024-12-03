@@ -1,0 +1,15 @@
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\HangszerekApp.csproj.AssemblyReference.cache
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\HangszerekWindow.baml
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\RendelesekWindow.baml
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\RendelesTetelWindow.baml
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\SzallitokWindow.baml
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\UgyfelekWindow.baml
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\HangszerekWindow.g.cs
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\RendelesekWindow.g.cs
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\RendelesTetelWindow.g.cs
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\SzallitokWindow.g.cs
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\UgyfelekWindow.g.cs
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\HangszerekApp_MarkupCompile.cache
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net6.0-windows\HangszerekApp_MarkupCompile.lref

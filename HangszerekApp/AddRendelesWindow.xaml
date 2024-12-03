@@ -1,0 +1,17 @@
+<Window x:Class="HangszerekApp.AddRendelesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Új rendelés hozzáadása" Height="300" Width="400">
+    <StackPanel Margin="10">
+        <Label Content="Ügyfél"/>
+        <ComboBox Name="UgyfelComboBox" />
+
+        <Label Content="Dátum"/>
+        <DatePicker Name="DatumPicker" />
+
+        <Label Content="Összeg"/>
+        <TextBox Name="OsszegTextBox" />
+
+        <Button Content="Mentés" Margin="5" Click="SaveButton_Click"/>
+    </StackPanel>
+</Window>
