@@ -28,9 +28,7 @@ C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\HangszerekApp.runtimeconfig.json
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\HangszerekApp.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\HangszerekApp.pdb
-C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\ControlzEx.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Humanizer.dll
-C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\MahApps.Metro.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
@@ -55,7 +53,6 @@ C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
@@ -65,7 +62,6 @@ C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
-C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\de\MahApps.Metro.resources.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
@@ -175,3 +171,5 @@ C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net9.0
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net9.0-windows\EditSzallitoWindow.baml
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net9.0-windows\AddSzallitoWindow.g.cs
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net9.0-windows\EditSzallitoWindow.g.cs
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\bin\Debug\net9.0-windows\hangszerek.db
+C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\obj\Debug\net9.0-windows\HangszerekApp_Content.g.cs

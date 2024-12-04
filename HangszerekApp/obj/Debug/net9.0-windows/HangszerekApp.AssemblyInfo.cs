@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HangszerekApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2848abc69250fb3439e6a2510dbecaec49fa928b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0da2cfa22f60b66073cd18da40929553f2acba52")]
 [assembly: System.Reflection.AssemblyProductAttribute("HangszerekApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HangszerekApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
