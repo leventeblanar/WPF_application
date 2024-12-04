@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Users\Blanár\Documents\GitHub\WPF_application\HangszerekApp\App.xaml
-14-1352557352
+16-603964149
 
-32-438787878
+341942784654
 222107599854
-AddHangszerWindow.xaml;AddRendelesTetelWindow.xaml;AddRendelesWindow.xaml;AddUgyfelWindow.xaml;EditHangszerWindow.xaml;EditRendelesTetelWindow.xaml;EditRendelesWindow.xaml;EditUgyfelWindow.xaml;HangszerekWindow.xaml;MainWindow.xaml;RendelesekWindow.xaml;RendelesTetelWindow.xaml;SzallitokWindow.xaml;UgyfelekWindow.xaml;
+AddHangszerWindow.xaml;AddRendelesTetelWindow.xaml;AddRendelesWindow.xaml;AddSzallitoWindow.xaml;AddUgyfelWindow.xaml;EditHangszerWindow.xaml;EditRendelesTetelWindow.xaml;EditRendelesWindow.xaml;EditSzallitoWindow.xaml;EditUgyfelWindow.xaml;HangszerekWindow.xaml;MainWindow.xaml;RendelesekWindow.xaml;RendelesTetelWindow.xaml;SzallitokWindow.xaml;UgyfelekWindow.xaml;
 
 False
 

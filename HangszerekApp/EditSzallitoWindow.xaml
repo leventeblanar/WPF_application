@@ -1,0 +1,16 @@
+<Window x:Class="HangszerekApp.EditSzallitoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Szállító módosítása" Height="300" Width="400">
+    <StackPanel Margin="20">
+        <Label Content="Név:"/>
+        <TextBox x:Name="NevInput" />
+        <Label Content="Kapcsolattartó:"/>
+        <TextBox x:Name="KapcsolattartoInput" />
+        <Label Content="Email:"/>
+        <TextBox x:Name="EmailInput" />
+        <Label Content="Telefonszám:"/>
+        <TextBox x:Name="TelefonInput" />
+        <Button Content="Mentés" Click="SaveButton_Click" Margin="0,10,0,0" />
+    </StackPanel>
+</Window>
